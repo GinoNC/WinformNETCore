@@ -21,6 +21,6 @@ namespace WinformNETCore
 
     public class SystemMessage
     {
-        public static string Hello = "Hello";
+        public static string Hello = "Hello World";
     }
 }
